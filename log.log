@@ -1,0 +1,336 @@
+CLASS: SegmentTree METHOD: read_file TIME: Mon May 27 23:13:12 2019
+
+CLASS: NULL METHOD: find_num_items TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: NULL METHOD: find_num_items TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: NULL METHOD: find_num_items TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: remove TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: update TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: is_empty TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: update TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: pop TIME: Mon May 27 23:13:12 2019
+
+CLASS: SegmentTree METHOD: is_empty TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: destructor TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: read_file TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: remove TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: append TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: is_empty TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: is_present TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: find TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: pop TIME: Mon May 27 23:13:12 2019
+
+CLASS: Heap METHOD: is_empty TIME: Mon May 27 23:13:12 2019
+
+CLASS: DataStruct METHOD: destructor TIME: Mon May 27 23:13:12 2019
+
